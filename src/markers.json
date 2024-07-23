@@ -1,0 +1,170 @@
+[
+    {
+      "name": "Ash, green",
+      "category": "ash",
+      "position": {
+        "lat": 43.649536,
+        "lng": -79.416187
+      }
+    },
+    {
+      "name": "Birch, white",
+      "category": "birch",
+      "position": {
+        "lat": 43.803719,
+        "lng": -79.354535
+      }
+    },
+    {
+      "name": "Maple, Manitoba",
+      "category": "maple",
+      "position": {
+        "lat": 43.677625,
+        "lng": -79.27608
+      }
+    },
+    {
+      "name": "Elm, American 'Valley Forge'",
+      "category": "elm",
+      "position": {
+        "lat": 43.743692,
+        "lng": -79.425206
+      }
+    },
+    {
+      "name": "Spruce, Colorado blue",
+      "category": "spruce",
+      "position": {
+        "lat": 43.733889,
+        "lng": -79.315376
+      }
+    },
+    {
+      "name": "Maple, Norway 'Schwedler'",
+      "category": "maple",
+      "position": {
+        "lat": 43.713252,
+        "lng": -79.551785
+      }
+    },
+    {
+      "name": "Mulberry, white",
+      "category": "mulberry",
+      "position": {
+        "lat": 43.758245,
+        "lng": -79.377848
+      }
+    },
+    {
+      "name": "Elm, Siberian",
+      "category": "elm",
+      "position": {
+        "lat": 43.692469,
+        "lng": -79.479295
+      }
+    },
+    {
+      "name": "Kentucky coffee",
+      "category": "kentucky_coffee",
+      "position": {
+        "lat": 43.757918,
+        "lng": -79.569502
+      }
+    },
+    {
+      "name": "Katsura, Japanese",
+      "category": "katsura",
+      "position": {
+        "lat": 43.64681,
+        "lng": -79.45259
+      }
+    },
+    {
+      "name": "Elm, American",
+      "category": "elm",
+      "position": {
+        "lat": 43.735598,
+        "lng": -79.400083
+      }
+    },
+    {
+      "name": "Maple, Norway",
+      "category": "maple",
+      "position": {
+        "lat": 43.671794,
+        "lng": -79.283123
+      }
+    },
+    {
+      "name": "Oak, white",
+      "category": "oak",
+      "position": {
+        "lat": 43.705484,
+        "lng": -79.517828
+      }
+    },
+    {
+      "name": "Honey locust, 'Skyline'",
+      "category": "honey_locust",
+      "position": {
+        "lat": 43.661668,
+        "lng": -79.569728
+      }
+    },
+    {
+      "name": "Cherry",
+      "category": "cherry",
+      "position": {
+        "lat": 43.657817,
+        "lng": -79.408632
+      }
+    },
+    {
+      "name": "Maple, Norway",
+      "category": "maple",
+      "position": {
+        "lat": 43.688379,
+        "lng": -79.389302
+      }
+    },
+    {
+      "name": "Hackberry",
+      "category": "hackberry",
+      "position": {
+        "lat": 43.748501,
+        "lng": -79.505892
+      }
+    },
+    {
+      "name": "Ash, green",
+      "category": "ash",
+      "position": {
+        "lat": 43.722747,
+        "lng": -79.400488
+      }
+    },
+    {
+      "name": "Mulberry, white",
+      "category": "mulberry",
+      "position": {
+        "lat": 43.734214,
+        "lng": -79.596881
+      }
+    },
+    {
+      "name": "Apple, Sargents",
+      "category": "apple",
+      "position": {
+        "lat": 43.810627,
+        "lng": -79.331971
+      }
+    },
+    {
+      "name": "Mountain ash, European",
+      "category": "mountain_ash",
+      "position": {
+        "lat": 43.712975,
+        "lng": -79.437332
+      }
+    }
+]
